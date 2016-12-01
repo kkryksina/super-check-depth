@@ -1,0 +1,11 @@
+{
+  "name": "super-check-depth",
+  "version": "0.0.1",
+  "description": "Check and print DOM depth of http-page in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kseniya Kryksina",
+  "license": "MIT"
+}
